@@ -6,7 +6,7 @@ public class Minesweeper {
 
         char[] field = new char[height * width];
         for (int i = 0; i < mines; i++) {
-            int index = 0;
+            int index;
             do {
                 index = (int) (Math.random() * field.length);
             } while (field[index] == '*'); // Ensure no duplicate mines
