@@ -20,8 +20,9 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
-# IntelliJ
+# Builds
 out/
+cmake-build-*
 
 # Editor-based Rest Client
 .idea/httpRequests

@@ -15,6 +15,9 @@
       <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
       <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
     </JavaCodeStyleSettings>
+    <clangFormatSettings>
+      <option name="ENABLED" value="true" />
+    </clangFormatSettings>
     <codeStyleSettings language="JAVA">
       <option name="RIGHT_MARGIN" value="100" />
       <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
